@@ -1,6 +1,6 @@
-name: 'Kuberentes (k8s) cli - kubectl'
-description: 'GitHub Action for interacting with kubectl (k8s)'
-author: 'Serhiy Mytrovtsiy <mitrovtsiy@ukr.net>'
+name: 'Kubernetes (k8s,k3s) cli - kubectl'
+description: 'GitHub Action for interacting with kubectl (k8s,k3s)'
+author: 'Serhiy Mytrovtsiy <mitrovtsiy@ukr.net>, Adjusted by Tomas Norre Mikkelsen <tomasnorre@gmail.com>'
 branding:
   icon: 'terminal'
   color: 'blue'
